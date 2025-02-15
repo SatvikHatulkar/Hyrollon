@@ -42,12 +42,12 @@ It provides deep control over Windows system components, allowing professionals 
    ```
 
 ### **Upcoming Updates**
-- # Local Enumeration Add-On:
+- ### Local Enumeration Add-On:
     1. **user accounts, processes, network details, and system privileges** extraction.
     2. **Identify potential attack vectors in a Windows environment.**
-- # Features Seperation:
+- ### Features Seperation:
     1. Features will be categorized **(Enumeration, Privilege Escalation, Persistence, etc)**
     2. Search Feature.
-- # Availability:
+- ### Availability:
     1. **x86(x32) version will be available soon.**
     2. **Hyrollon Debian.**
